@@ -1,0 +1,6 @@
+gameOfLife
+*.gch
+*.o
+*.pdf
+*.zip
+.DS_Store
